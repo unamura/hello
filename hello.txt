@@ -1,5 +1,5 @@
 dd
 ciao ciao ciao
 hello
-goodbye /master + other
+goodbye 15:10
 
