@@ -1,4 +1,4 @@
 dd
 ciao ciao ciao
 hello
-goodbye 15:11
+goodbye /other 15:11
